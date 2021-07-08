@@ -8,7 +8,7 @@
 ```
 {21-07-08 16:04}mail:~ root# ./icmplog [Attack Server IP]
 ```
-[Attack Server IP]为要监听的服务端IP地址
+[Attack Server IP]为要监听的服务端IP地址  
 被攻击机执行
 ```
 ping [Attack Server IP]
